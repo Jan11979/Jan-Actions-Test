@@ -11,7 +11,7 @@ public class Main {
         System.out.println("Ten = "+ getTen());
         System.out.println("mainNeuewf");
  //       dumm Fehler
-        // sdfsdg hgjjmghm fdgfdh
+        // sdfsdg hgjjmghm fdgfdh fdgf
 
     }
 }
