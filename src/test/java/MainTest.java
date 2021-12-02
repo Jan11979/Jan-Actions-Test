@@ -8,7 +8,7 @@ class MainTest {
     @Test
     void myGetTenTest() {
         assertTrue(Main.getTen() == 10 );
-      //  assertTrue(Main.getTen() == 42 );
+        assertTrue(Main.getTen() == 42 );
 
     }
 
