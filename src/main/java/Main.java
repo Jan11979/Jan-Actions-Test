@@ -10,7 +10,7 @@ public class Main {
         System.out.println("main");
         System.out.println("Ten = "+ getTen());
         System.out.println("mainNeuewf");
-        dumm
+ //       dumm Fehler
 
     }
 }
